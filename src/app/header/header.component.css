@@ -1,0 +1,12 @@
+.nav-item h5:hover {
+    background-color: grey;
+}
+
+.align {
+    display: flex;
+    justify-content: right;
+}
+
+.search-container {
+    float: right;
+}
